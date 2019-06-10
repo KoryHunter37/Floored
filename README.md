@@ -1,6 +1,6 @@
 # Floored
 
-<p align="center"><img src=images/floored.png></img></p>
+<p align="center"><img src=images/floored.PNG></img></p>
 
 ## About
 
