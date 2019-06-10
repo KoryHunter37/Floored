@@ -12,7 +12,7 @@ On each level of Floored, players must gather power ups while wisely utilizing t
 
 ## Download
 
-Please check out Floored on [Gamejolt!](https://gamejolt.com/games/floored/317865)
+Please check out Floored on [Gamejolt](https://gamejolt.com/games/floored/317865) or check out the [Releases tab](https://github.com/KouriiRaiko/Floored/releases) for a Windows download!
 
 ## Gallery
 
