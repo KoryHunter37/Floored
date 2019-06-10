@@ -13,7 +13,7 @@ Please check out Floored on [Gamejolt!](https://gamejolt.com/games/floored/31786
 
 <p align="center"><img src=images/intro.gif></img></p>
 
-<p align="center"><img src=images/menu.png></img></p>
+<p align="center"><img src=images/menu.PNG></img></p>
 
 <p align="center"><img src=images/keys-1.gif></img></p>
 
