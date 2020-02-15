@@ -6,7 +6,7 @@
 
 Floored is a retro puzzle game themed after classic dungeon crawler RPGs! It was developed in collaboration with the students of Georgia Tech's Video Game Development Club.
 
-Floored features Gamejolt API integration, hosting an online multiplayer scoreboard, level editor with cloud saving and community sharing options, and account-synced achievments!
+Floored features Gamejolt API integration, hosting an online multiplayer scoreboard, level editor with cloud saving and community sharing options, and account-synced achievements!
 
 On each level of Floored, players must gather power ups while wisely utilizing their minimal resources and combat stats. Only by making intelligent and efficient decisions will you reach the tower's peak!
 
